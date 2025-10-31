@@ -49,5 +49,9 @@ These spreadsheets are condensed forms of the spreadsheets used in the first par
 * Search for best one-parameter thresholds to separate alkynes into "easy" and "difficult" to hydrogenate according to their semihydrogenation rates.
 * Search for best one- and two-parameter logistic regression models, including virtual screening
 
+This part makes use of two .py scripts from https://github.com/SigmanGroup/Multiobjective_Optimization found in src/:
+* Logistic_Regression.py
+* logreg_stats
+
 ## Contributors
 The Jupyter notebook has been built by Jordan De Jesus Silva and is based on aforementioned work.
