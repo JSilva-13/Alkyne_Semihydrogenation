@@ -39,7 +39,7 @@ Dimension reduction is performed using PCA or UMAP, followed by hierarchical clu
 * The diversity of the clustering workflow is analyzed via random sampling
 
 ## Threshold Analysis and Logistic Regression
-The second part of the notebook works with two excel spreadsheets, coming from Clarysse, J., De Jesus Silva, J., Xing, Y. *et al.* Earth-abundant Ni-Zn nanocrystals for efficient alkyne semihydrogenation catalysis. **Nat Commun** *16*, 4378 (2025). https://doi.org/10.1038/s41467-025-58838-8:
+The second part of the notebook works with two excel spreadsheets, coming from Clarysse, J., De Jesus Silva, J., Xing, Y. *et al.* **Nat Commun** *16*, 4378 (2025). https://doi.org/10.1038/s41467-025-58838-8:
 
 1) DataSet_AllAlkynes_TMS.xlsx
 2) DataSet_Tested.xlsx
