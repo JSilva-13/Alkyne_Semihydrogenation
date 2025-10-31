@@ -5,8 +5,20 @@ This repository contains a Jupyter notebook inspired/based on work and analyses 
 * S. K. Kariofillis, A. G. Doyle *et al.*, *J. Am. Chem. Soc.* **2022**, *144*, 1045-1055. (https://pubs.acs.org/doi/10.1021/jacs.1c12203)
 * https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html (last accessed 10.08.22)
 * talktorial from the Volkamer lab: https://projects.volkamerlab.org/teachopencadd/talktorials/T006_compound_maximum_common_substructures.html (last accessed 10.08.22)
-* S. H. Newman-Stonebraker, A. G. Doyle *et al.*, *Science* **2021**, *374*, 301-308. Jupyter notebook available under: https://github.com/SigmanGroup/Threshold  
+* S. H. Newman-Stonebraker, A. G. Doyle *et al.*, *Science* **2021**, *374*, 301-308. Zenodo (2021); http://doi.org/10.5281/zenodo.5227162 Jupyter notebook available under: https://github.com/SigmanGroup/Threshold  
 * J. Dotson, M. Sigman *et al.*, *J. Am. Chem. Soc.* **2023**, *145, 1*, 110-121. Jupyter notebook available under: https://github.com/SigmanGroup/Multiobjective_Optimization
+
+## Requirements
+* python 3 (tested on 3.9.7)
+* numpy (1.20.3)
+* pandas (1.4.1)
+* xlrd (2.0.1)
+* rdkit (2021.09.04)
+* matplotlib (3.5.0)
+* seaborn (0.11.1)
+* scikit-learn (1.0.2)
+* umap-learn (0.5.2)
+* scipy (1.7.3)
 
 ## Chemical Space Mapping
 The first part of the notebook is designed to work with 4 excel spreadsheets:
