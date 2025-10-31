@@ -1,4 +1,4 @@
-# Alkyne_Semihydrogenation
+# Alkyne Semihydrogenation Reactivity Classifier
 
 This repository contains a Jupyter notebook inspired/based on work and analyses done in:
 
