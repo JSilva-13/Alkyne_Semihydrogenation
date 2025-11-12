@@ -21,11 +21,12 @@ This repository contains a Jupyter notebook inspired/based on work and analyses 
 * scipy (1.7.3)
 
 ## Chemical Space Mapping
-The first part of the notebook is designed to work with 4 excel spreadsheets:
+The first part of the notebook is designed to work with 4 excel spreadsheets and one Jupyter Notebook:
 1) DataSet_InternalAlkynes.xlsx
 2) DataSet_TerminalAlkynes.xlsx
 3) DataSet_Substrates.xlsx
 4) DataSet_LiteratureSubstrates.xlsx
+5) AlkyneSemihydrogenation_ChemicalSpaceMapping.ipynb
 
 The first two excel files contain calculated physicochemical descriptors for commercially available internal and terminal alkynes, respectively. The third spreadsheet contains catalytic output parameters of 31 tested substrates. The fourth spreadsheet contains reported yields for alkyne semihydrogenation reaction using molecular hydrogen.
 
@@ -39,10 +40,11 @@ Dimension reduction is performed using PCA or UMAP, followed by hierarchical clu
 * The diversity of the clustering workflow is analyzed via random sampling
 
 ## Threshold Analysis and Logistic Regression
-The second part of the notebook works with two excel spreadsheets, coming from Clarysse, J., De Jesus Silva, J., Xing, Y. *et al.* **Nat Commun** *16*, 4378 (2025). https://doi.org/10.1038/s41467-025-58838-8:
+The second part works with two excel spreadsheets and a Jupyter Notebook, coming from Clarysse, J., De Jesus Silva, J., Xing, Y. *et al.* **Nat Commun** *16*, 4378 (2025). https://doi.org/10.1038/s41467-025-58838-8:
 
 1) DataSet_AllAlkynes_TMS.xlsx
 2) DataSet_Tested.xlsx
+3) AlkyneSemihydrogenation_LogisticRegression.ipynb
 
 These spreadsheets are condensed forms of the spreadsheets used in the first part of the notebook.
 
